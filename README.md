@@ -4,11 +4,11 @@ Cette calculatrice permet de faire des opérations en base 24
 
 # Fonctionnalités
 
-1.Addition en base 24
-2.soustraction en base 24
-3.Multiplication en base 24
-4.Division en base 24  
-5.Conversion base 10 en base 24
+1. Addition en base 24
+2. soustraction en base 24
+3. Multiplication en base 24
+4. Division en base 24  
+5. Conversion base 10 en base 24
 
 # Comment utiliser le programme
 
